@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0872,,,,,invalid,
+N002,A0897,,,,,invalid,
+N003,A0526,,,,,invalid,
+N004,A0926,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N005,A0534,,,,,invalid,
+N006,A0507,,,,,invalid,
+N007,A0333,,,,,invalid,
+N008,A0222,,,,,invalid,
+N009,A0977,,,,,invalid,
+N010,A0596,,,,,invalid,
